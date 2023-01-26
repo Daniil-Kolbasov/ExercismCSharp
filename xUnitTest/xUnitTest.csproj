@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ExercismCSharpLib\ExercismCSharpLib.csproj" />
+  </ItemGroup>
+
 </Project>
