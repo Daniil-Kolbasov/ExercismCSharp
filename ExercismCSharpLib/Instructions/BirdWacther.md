@@ -70,4 +70,5 @@ birdCount.BusyDays();
 
 
 ### Syllabus
+
 Arrays, For Loops, Foreach Loops
