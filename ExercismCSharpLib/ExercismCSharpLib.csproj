@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Instructions\PhoneNumberAnalysis.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Instructions\PhoneNumberAnalysis.md" />
+  </ItemGroup>
+
 </Project>
