@@ -1,6 +1,4 @@
-﻿using ExercismCSharpLib;
-
-namespace xUnitTest;
+﻿namespace xUnitTest;
 
 public static class BookingUpForBeautyTests
 {
